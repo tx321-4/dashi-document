@@ -1,7 +1,7 @@
 # 大师的文档库 
 
 >创建时间：2021.07.23  
->更新时间：2021.07.23
+>更新时间：2021.07.26
 
 * 认知改变行为，行为影响结果 —— 堂主
 * 第一步永远是最难的 —— 大师
@@ -35,5 +35,6 @@
 ## 感谢文章作者的收集，给我提供参考
 * [jsliang 的文档库](https://github.com/LiangJunrong/document-library)
 * [历时将月,七厂同约,终入字节--应届小前端的破局之路](https://lengyuexin.github.io/gatsby/summary/)
+* [前端入门到进阶图文教程--千古壹号](https://github.com/qianguyihao/Web)
 
 

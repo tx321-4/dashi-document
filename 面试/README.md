@@ -20,7 +20,11 @@
 &nbsp;
 ## <a name="chapter-two" id="chapter-two"></a>二 自我分析
 > [返回目录](#chapter-one)
-
+* 基本流程
+  * 确定前端发展方向
+  * 建立文档库，存储知识点
+  * 制订目标、计划（一个月）
+  * 实现目标
 * 先从HTML，CSS3，JavaScript基础开始  —— 基础打牢，房子才能不塌
   *  Date: 2021.07.23 立项
 
