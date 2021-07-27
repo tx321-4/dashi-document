@@ -25,12 +25,34 @@
 ### <a name="chapter-two-one" id="chapter-two-one"></a>2.1 基础
 > [返回目录](#chapter-one)  
 
+  * 盒子模型
+  * BFC
+  * link、@import
+  * 优雅降级，渐进增强
+  * CSS的权重规则
+
 文章地址：指路 ☞ [基础](基础.md)
 
 
 ### <a name="chapter-two-two" id="chapter-two-two"></a>2.2 Flex 弹性布局
 > [返回目录](#chapter-one) 
-> 
+  
+  * 容器
+    * flex-direction
+    * flex-wrap
+    * flex-flow
+    * justify-content
+    * align-items
+    * align-content
+  * 项目
+    * order
+    * flex-grow
+    * flex-shrink
+    * flex-basis
+    * flex
+    * align-self
+
+
 文章地址：指路 ☞ [Flex](Flex.md)
 
 ## <a name="chapter-three" id="chapter-three"></a>三 参考文献
