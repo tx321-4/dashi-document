@@ -7,4 +7,6 @@
     * [ ] [面试]-[CSS3] —— [基础](./面试/CSS3/基础.md)
     * [x] [面试]-[CSS3] —— [Flex 弹性布局](./面试/CSS3/Flex.md)
     * [x] [面试]-[HTML](./面试/HTML/README.md)
-
+  * 第7天（2021.07.29）
+    * [x] [JavaScript]-[基本语法](./JavaScript/入门教程/入门篇/基本语法.md)
+  
