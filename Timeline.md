@@ -11,4 +11,8 @@
     * [x] [JavaScript]-[入门篇]-[基本语法](./JavaScript/入门教程/入门篇/基本语法.md)
     * [x] [JavaScript]-[数据类型]-[概述](./JavaScript/入门教程/数据类型/概述.md)
     * [x] [JavaScript]-[数据类型]-[null, undefined 和布尔值](./JavaScript/入门教程/数据类型/布尔值-null-undefined.md)
+  * 第8天（2021.07.30）
+    * [x] [JavaScript]-[数据类型]-[数值](./JavaScript/入门教程/数据类型/数值.md)
+    * [x] [JavaScript]-[数据类型]-[字符串](./JavaScript/入门教程/数据类型/字符串.md)
+
   
