@@ -18,5 +18,6 @@
     * [x] [JavaScript]-[数据类型]-[对象](./JavaScript/入门教程/数据类型/对象.md)
     * [x] [JavaScript]-[数据类型]-[函数](./JavaScript/入门教程/数据类型/函数.md)
     * [x] [JavaScript]-[数据类型]-[数组](./JavaScript/入门教程/数据类型/数组.md)
-
+  * 2021.08.26
+    * [x] [JavaScript]-[运算符]-[算术运算符](./JavaScript/入门教程/运算符/算术运算符.md)
   
